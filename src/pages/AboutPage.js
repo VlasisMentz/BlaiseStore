@@ -15,12 +15,9 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-            dolores cumque illo, neque perspiciatis suscipit assumenda at ad
-            doloribus dicta distinctio odio inventore animi culpa, sit nisi
-            commodi dolorum voluptatem nam ducimus ex aliquid! Ipsam rerum
-            doloribus accusamus dolores nesciunt animi, dolorum distinctio iste
-            soluta. Quod commodi vel esse amet?
+            This educational e-commerce project was made by Vlasis
+            Mentzelopoulos from "React Tutorial and Projects Course" by John
+            Smilga's Udemy Course.
           </p>
         </article>
       </Wrapper>
